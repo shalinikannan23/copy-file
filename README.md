@@ -21,10 +21,7 @@ with open('f1.txt','r') as f1:
         for line in f1:
             f2.write(line)
 ```
-
 ### OUTPUT:
-![image](https://github.com/shalinikannan23/copy-file/assets/118656529/2965ca37-19a9-4f8a-9344-8d5751ed3f4c)
-
-
+![image](https://github.com/shalinikannan23/copy-file/assets/118656529/68ce94e4-2d53-40e1-ba16-b277c844ec4c)
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
